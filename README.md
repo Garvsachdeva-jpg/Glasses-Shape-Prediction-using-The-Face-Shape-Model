@@ -5,7 +5,8 @@ Classify a user's face shape (Oval, Square, Round, Heart, or Oblong) using a Con
 
 Recommend specific glasses frames that complement those unique facial features.
 
-Deploy the model via a user-friendly interface for real-time predictions.
+Deployed the model via a user-friendly interface for real-time predictions:
+https://glasses-shape-prediction-using-the-face-shape-model.streamlit.app/
 
 🛠️ Tech Stack
 Language: Python
@@ -44,3 +45,4 @@ The logic follows the "Rule of Opposites" in fashion:
 | Square | Round / Oval | Softens a strong jawline. |
 | Heart | Bottom-heavy / Cat-eye | Balances a wider forehead. |
 | Oval | Most shapes (especially Walnut) | Maintains natural balance. |
+
